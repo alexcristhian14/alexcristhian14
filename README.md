@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo👋
 
-Meu nome é **Alex Cristhian** e tenho **19 anos**. <br>
-Atualmente, estou no **4º Período** de **Ciência da Computação**, na **Universidade do Estado do Rio Grande do Norte - UERN.**
+Meu nome é **Alex Cristhian**
+Atualmente, estou no **6º Período** de **Ciência da Computação**, na **Universidade do Estado do Rio Grande do Norte - UERN.**
 
 ## 👨‍💻 Sobre mim 
 Sou estudante de Ciência da Computação e utilizo este espaço para registrar minha evolução acadêmica e prática. 
