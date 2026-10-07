@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo👋
 
-Meu nome é **Alex Cristhian**
+Meu nome é **Alex Cristhian** <br>
 Atualmente, estou no **6º Período** de **Ciência da Computação**, na **Universidade do Estado do Rio Grande do Norte - UERN.**
 
 ## 👨‍💻 Sobre mim 
